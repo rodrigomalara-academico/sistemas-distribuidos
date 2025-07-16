@@ -1,0 +1,9 @@
+Experimento com JMS usando Active MQ
+
+O documento é auto-explicativo.
+O relatório serve para vocês fazerem uma pesquisa bibliográfica sobre JMS (Java Messaging Services) pertencente ao padrão JEE (Java Enterprise Edition) e sobre o produto Active MQ da Apache. Também servirá para documentarem o experimento que realizaram através do desenvolvimento do chat simplificado feito em aula.
+
+Pode-se fazer em grupos de até 2 pessoas.
+Entregar em formato PDF. 
+Seu relatório e dos seus colegas poderão ser auditados por software anti-plagio pois relatórios iguais/similares não serão aceitos e cópias de sites de internet também não.
+
