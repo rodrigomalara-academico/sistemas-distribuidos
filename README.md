@@ -1,12 +1,30 @@
-# Paradigmas de Programação
+# Sistemas Distribuídos e Programação Concorrente
 
 Neste repositório, você encontrará:
 
-* Slides de aula: Organizados por tópicos, cobrindo os principais conceitos de Paradigmas de Programação (Imperativo, Funcional, Orientado a Objetos, Lógico, etc.).
+* Slides de aula: Organizados por tópicos, cobrindo os principais conceitos de Sistemas Distribuídos como:
+  * Apresentação
+  * Visão Geral
+  * Introdução a Arquitetura de Software
+  * Modelos Arquiteturais
+  * Comunicação Direta
+    * Estudos de Caso: Java Sockets e Java RMI
+  * Comunicação Indireta
+    * Estudo de caso: Java JMS e ActiveMQ
+  * Sistemas de Arquivos Distribuídos
+  * Computação em Nuvem - AWS
+  * Tolerância a Falhas
+  * Padrões Arquiteturais
+  * Transações Distribuídas
+  * Sincronização, Exclusão Mútua e Acordos em Sistemas Distribuídos
+  * Programação Paralela
+    * Estudo de caso: OpenMP
 
-* Exemplos de código: Implementações em linguagens como Python, C++, Prolog e Java para ilustrar cada paradigma.
+* Exemplos de código: Implementações em linguagens como Java e C para ilustrar os assuntos estudados.
 
-* Exercícios: Listas práticas com desafios para consolidar o aprendizado.
+* Trabalhos práticos para sala de aula ou para casa
+
+* Listas de exercícios para consolidar o aprendizado.
 
 ## Sobre o material
 
@@ -30,4 +48,4 @@ A educação é colaborativa por natureza – juntos, podemos melhorar este recu
 
 Rodrigo Malara
 
-Atualizado em 25 de junho de 2025
+Atualizado em 16 de julho de 2025
